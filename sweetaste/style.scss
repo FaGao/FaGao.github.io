@@ -65,7 +65,7 @@
     .mainDessert{
         width: 375px;
         height: 277px;
-        background: url("/images/mainDessert.jpg") center;
+        background: url("./images/mainDessert.jpg") center;
 
         /* 使用於背景圖片小於容器時，將背景圖片的大小放大至容器的大小並填滿，
         缺點是如果容器的長寬比例與背景圖片的長寬比例不吻合，會出現背景圖片失真的情況。 */
@@ -80,13 +80,13 @@
         position: relative;
 
         .todayList{
-            background: url("/images/todayList.jpg") center;
+            background: url("./images/todayList.jpg") center;
         }
         .popularList{
-            background: url("/images/popularList.jpg") center;
+            background: url("./images/popularList.jpg") center;
         }
         .newlist{
-            background: url("/images/newlist.jpg") center;
+            background: url("./images/newlist.jpg") center;
         }
 
         li{
@@ -449,7 +449,7 @@
     .mainDessert{
         width: 800px;
         height: 500px;
-        background: url("/images/mainDessert.jpg") center;
+        background: url("./images/mainDessert.jpg") center;
 
         /* 使用於背景圖片小於容器時，將背景圖片的大小放大至容器的大小並填滿，
         缺點是如果容器的長寬比例與背景圖片的長寬比例不吻合，會出現背景圖片失真的情況。 */
@@ -464,13 +464,13 @@
         position: relative;
 
         .todayList{
-            background: url("/images/todayList.jpg") center;
+            background: url("./images/todayList.jpg") center;
         }
         .popularList{
-            background: url("/images/popularList.jpg") center;
+            background: url("./images/popularList.jpg") center;
         }
         .newlist{
-            background: url("/images/newlist.jpg") center;
+            background: url("./images/newlist.jpg") center;
         }
 
         li{
@@ -844,13 +844,13 @@
         top: -90px;
     
         .todayList{
-            background: url("/images/todayList.jpg") center;
+            background: url("./images/todayList.jpg") center;
         }
         .popularList{
-            background: url("/images/popularList.jpg") center;
+            background: url("./images/popularList.jpg") center;
         }
         .newlist{
-            background: url("/images/newlist.jpg") center;
+            background: url("./images/newlist.jpg") center;
         }
     
         li{
